@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 👋 Hi, I'm Chaithanya — AI/ML & Data Science Enthusiast from India 🇮🇳
+### 👋 Hi, I'm Chaithanya — AI/ML & Data Science Enthusiast 
 
 </div>
 
